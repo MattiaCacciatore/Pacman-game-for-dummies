@@ -45,7 +45,7 @@ Version 1.0 - Base game without ghosts, fruits and pellet. Just the maze, pacman
 
 Version 2.0 - Game with ghosts, fruits and pellet. Pacman has new fields like score and invulnerability.
 
-Version 3.0 - Colored maze, scoreboard and direct input.
+Version 3.0 - Colored maze, scoreboard and direct input (you don't have to press Enter after one move everytime).
 
 
 Have fun!
